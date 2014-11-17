@@ -88,5 +88,11 @@
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141027_161558.jpg)
 
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141027_161653.jpg)
+
 
 # Now you are done with the base
+
+[Next Section: Section 2 - Acrylic frame assemble](s2-assemble-frame.md)
+
+[Go back to index](index.md)
