@@ -93,6 +93,6 @@
 
 # Now you are done with the base
 
-[Next Section: Section 2 - Acrylic frame assemble](s2-assemble-frame.md)
+[Next Section: Section 2 - Acrylic frame assemble](s2-frame-assemble.md)
 
 [Go back to index](index.md)
