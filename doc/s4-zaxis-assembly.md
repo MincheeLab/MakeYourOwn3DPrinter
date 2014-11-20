@@ -31,6 +31,6 @@ Parts:
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_180204.jpg)
 
-[Next Section: Section 4 - Acrylic frame assemble](s4-frame-assemble.md)
+[Next Section: Section 5 - Y-Axis Belt](s5-yaxis-belt.md)
 
 [Go back to index](index.md)
