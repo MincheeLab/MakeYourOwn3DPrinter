@@ -1,10 +1,8 @@
 # Section 4 - Z-Axis assembly
 
-### Step 1 - install z-axis motor and z rods
+### Step 1 - install z-axis motor
 
 Parts:
-- z-axis plastic top left * 1
-- z-axis plastic top right * 1
 - z-axis plastic bottom left * 1
 - z-axis plastic bottom right * 1
 - M3-10mm * 6
@@ -18,7 +16,11 @@ Parts:
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_172429.jpg)
 
+### Step 1 - install z-axis rods
+
 Parts:
+- z-axis plastic top left * 1
+- z-axis plastic top right * 1
 - M8-320mm sliding rods * 2
 - M5-300mm threaded rods * 2
 - axis connector * 2
