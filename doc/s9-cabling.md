@@ -25,4 +25,6 @@ Parts:
 
 [Previous: Section 8 - End stop](s8-end-stop.md)
 
+[Next: Section 10 - Install firmware](s10-install-firmware.md)
+
 [Go back to index](index.md)
