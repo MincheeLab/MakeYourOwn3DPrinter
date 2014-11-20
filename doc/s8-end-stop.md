@@ -14,13 +14,13 @@ Parts:
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_120823.jpg)
 
-### Step 3 - install Y-Axis end stop
+### Step 2 - install Y-Axis end stop
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_121540.jpg)
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_121740.jpg)
 
-### Step 2 - install Z-Axis end stop
+### Step 3 - install Z-Axis end stop
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_121749.jpg)
 
