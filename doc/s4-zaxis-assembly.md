@@ -7,6 +7,7 @@ Parts:
 - z-axis plastic bottom right * 1
 - M3-10mm * 6
 - M3 washer * 6
+- Stepper motor * 2
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_161549.jpg)
 
@@ -33,6 +34,6 @@ Parts:
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_180204.jpg)
 
-[Next Section: Section 5 - Y-Axis Belt](s5-yaxis-belt.md)
+[Next Section: Section 5 - X and Y-Axis Belt](s5-xyaxis-belt.md)
 
 [Go back to index](index.md)

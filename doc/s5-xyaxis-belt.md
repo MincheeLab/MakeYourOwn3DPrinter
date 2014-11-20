@@ -33,6 +33,41 @@ Parts:
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMAG2160.jpg)
 
+### Step 4 - Y-axis belt tensioner
+
+Parts:
+- Tensioner * 1
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_103534.jpg)
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_103952.jpg)
+
+### Step 5 - connect the Y-axis belt
+
+Parts:
+- 1M Belt (from Step 2)
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMAG2143.jpg)
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMAG2144.jpg)
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMAG2145.jpg)
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMAG2148.jpg)
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMAG2152.jpg)
+
+### Step 6 - X-axis belt tensioner
+
+Parts:
+-  Tensioner * 1
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_103816.jpg)
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_105041.jpg)
+
+
+
 <!--[Next Section: Section 4 - Z-axis assembly](s4-zaxis-assembly.md)
 -->
 [Go back to index](index.md)
