@@ -33,6 +33,6 @@
 
 [Previous: Section 1 - Base assembly](s1-base-assembly.md)
 
-[Next: Section 3 - X-axis assembly](s3-xaxis-assemble.md)
+[Next: Section 3 - X-axis assembly](s3-xaxis-assembly.md)
 
 [Go back to index](index.md)
