@@ -34,7 +34,7 @@ TODO: !!! imageimage !!!!
 
 # [Download Printrun from here](http://koti.kapsi.fi/~kliment/printrun/)
 
-### Step 7 - Get Slic3r to generate GCode
+### Step 8 - Get Slic3r to generate GCode
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/Slic3r.jpg)
 
