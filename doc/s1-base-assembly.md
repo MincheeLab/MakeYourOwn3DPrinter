@@ -91,8 +91,6 @@
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141027_161653.jpg)
 
 
-# Now you are done with the base
-
-[Next Section: Section 2 - Acrylic frame assemble](s2-frame-assemble.md)
+[Next Section: Section 2 - Acrylic frame assembly](s2-frame-assembly.md)
 
 [Go back to index](index.md)
