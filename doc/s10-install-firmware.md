@@ -30,12 +30,12 @@ TODO: !!! imageimage !!!!
 
 ### Step 7 - Get Printrun for Tweaking and Tuning
 
-![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/Pronterface.jpg)
+## [Download Printrun from here](http://koti.kapsi.fi/~kliment/printrun/)
 
-# [Download Printrun from here](http://koti.kapsi.fi/~kliment/printrun/)
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/Pronterface.jpg)
 
 ### Step 8 - Get Slic3r to generate GCode
 
-![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/Slic3r.jpg)
+## [Download Slic3r from here](http://slic3r.org/)
 
-# [Download Slic3r from here](http://slic3r.org/)
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/Slic3r.jpg)
