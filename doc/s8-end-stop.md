@@ -26,6 +26,6 @@ Parts:
 
 [Previous: Section 7 - Extruder](s7-extruder.md)
 
-[Previous: Section 9 - Cabling](s9-cabling.md)
+[Next: Section 9 - Cabling](s9-cabling.md)
 
 [Go back to index](index.md)
