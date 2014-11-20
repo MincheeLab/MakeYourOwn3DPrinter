@@ -66,3 +66,9 @@ Parts:
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_105143.jpg)
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_105427.jpg)
+
+[Previous: Section 6 - Heated Bed](s6-heated-bed.md)
+
+[Next: Section 8 - End Stop](s8-end-stop.md)
+
+[Go back to index](index.md)

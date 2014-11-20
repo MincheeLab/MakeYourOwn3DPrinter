@@ -31,7 +31,8 @@
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_160924.jpg)
 
+[Previous: Section 1 - Base assembly](s1-base-assembly.md)
 
-[Next Section: Section 3 - X-axis assembly](s3-xaxis-assemble.md)
+[Next: Section 3 - X-axis assembly](s3-xaxis-assemble.md)
 
 [Go back to index](index.md)

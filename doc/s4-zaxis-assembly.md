@@ -34,6 +34,8 @@ Parts:
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_180204.jpg)
 
-[Next Section: Section 5 - X and Y-Axis Belt](s5-xyaxis-belt.md)
+[Previous: Section 3 - X-axis assembly](s3-xaxis-assemble.md)
+
+[Next: Section 5 - X and Y-Axis Belt](s5-xyaxis-belt.md)
 
 [Go back to index](index.md)

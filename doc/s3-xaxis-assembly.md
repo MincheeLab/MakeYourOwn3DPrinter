@@ -70,6 +70,8 @@ Parts:
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMAG2142.jpg)
 
-[Next Section: Section 4 - Z-axis assembly](s4-zaxis-assembly.md)
+[Previous: Section 2 - Acrylic frame assembly](s2-frame-assembly.md)
+
+[Next: Section 4 - Z-axis assembly](s4-zaxis-assembly.md)
 
 [Go back to index](index.md)

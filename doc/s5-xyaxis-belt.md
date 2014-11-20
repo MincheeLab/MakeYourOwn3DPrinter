@@ -66,8 +66,8 @@ Parts:
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_105041.jpg)
 
+[Previous: Section 4 - Z-axis assembly](s4-zaxis-assembly.md)
 
+[Next: Section 6 - Heated Bed](s6-heated-bed.md)
 
-<!--[Next Section: Section 4 - Z-axis assembly](s4-zaxis-assembly.md)
--->
 [Go back to index](index.md)

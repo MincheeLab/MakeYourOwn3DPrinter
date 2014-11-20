@@ -14,6 +14,8 @@ Parts:
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_104532.jpg)
 
-<!--[Next Section: Section 4 - Z-axis assembly](s4-zaxis-assembly.md)
--->
+[Previous: Section 5 - X and Y-Axis Belt](s5-xyaxis-belt.md)
+
+[Next: Section 7 - Extruder](s7-extruder.md)
+
 [Go back to index](index.md)
