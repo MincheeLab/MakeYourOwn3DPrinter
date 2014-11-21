@@ -22,7 +22,11 @@ Select "ATMega2560..."
 
 ### Step 5 - Select serial port
 
-TODO: !!! imageimage !!!!
+On Mac: "/tty/usbmodemXXXX"
+
+On Windows: "COMX"
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/arduino-select-serial-port.jpg)
 
 ### Step 6 - Upload firmware
 
