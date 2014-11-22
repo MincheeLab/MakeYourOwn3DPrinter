@@ -61,7 +61,7 @@ Parts:
 Parts:
 - motor x 1
 - 2GT wheel x 1
-- M3 screw x 4
+- M3-20 screw x 4
 - M3 washer x 4
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMAG2139.jpg)
