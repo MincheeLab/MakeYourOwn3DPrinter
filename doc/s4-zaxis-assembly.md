@@ -6,6 +6,7 @@ Parts:
 - z-axis plastic bottom left x 1
 - z-axis plastic bottom right x 1
 - M3-10mm x 6
+- M3-16mm x 6
 - M3 washer x 6
 - Stepper motor x 2
 
