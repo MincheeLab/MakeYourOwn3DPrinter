@@ -69,7 +69,7 @@
 **Parts:**
 - Acrylic print bed x 1
 - Self-fix nuts x 2
-- M3 screw x 2
+- M3-16 screw x 2
 - Plastic part
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141024_191523.jpg)
