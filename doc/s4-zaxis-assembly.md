@@ -3,11 +3,11 @@
 ### Step 1 - install z-axis motor
 
 Parts:
-- z-axis plastic bottom left * 1
-- z-axis plastic bottom right * 1
-- M3-10mm * 6
-- M3 washer * 6
-- Stepper motor * 2
+- z-axis plastic bottom left x 1
+- z-axis plastic bottom right x 1
+- M3-10mm x 6
+- M3 washer x 6
+- Stepper motor x 2
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_161549.jpg)
 
@@ -20,11 +20,11 @@ Parts:
 ### Step 1 - install z-axis rods
 
 Parts:
-- z-axis plastic top left * 1
-- z-axis plastic top right * 1
-- M8-320mm sliding rods * 2
-- M5-300mm threaded rods * 2
-- axis connector * 2
+- z-axis plastic top left x 1
+- z-axis plastic top right x 1
+- M8-320mm sliding rods x 2
+- M5-300mm threaded rods x 2
+- axis connector x 2
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_174351.jpg)
 

@@ -1,7 +1,7 @@
 # Cabling 
 
 Parts:
-- Cables * plenty of them
+- All the supplied electrical wires
 
 # Step 1 - Prepare RAMPS board
 

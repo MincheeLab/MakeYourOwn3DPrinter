@@ -3,10 +3,10 @@
 # The only step
 
 Parts:
-- M3-25mm screw * 4
-- M3 bolt * 4
-- M3 washer * 4
-- Spring * 4
+- M3-25mm screw x 4
+- M3 bolt x 4
+- M3 washer x 4
+- Spring x 4
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_104251.jpg)
 

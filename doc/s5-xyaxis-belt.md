@@ -3,7 +3,7 @@
 ### Step 1 - install Y-Axis motor
 
 Parts:
-- M3-10mm * 2
+- M3-10mm x 2
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMAG2153.jpg)
 
@@ -12,7 +12,7 @@ Parts:
 ### Step 2 - cut the belt in half (1M)
 
 Parts:
-- 2M Belt  * 1 
+- 2M Belt  x 1 
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_153745.jpg)
 
@@ -36,7 +36,7 @@ Parts:
 ### Step 4 - Y-axis belt tensioner
 
 Parts:
-- Tensioner * 1
+- Tensioner x 1
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_103534.jpg)
 
@@ -60,7 +60,7 @@ Parts:
 ### Step 6 - X-axis belt tensioner
 
 Parts:
--  Tensioner * 1
+-  Tensioner x 1
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_103816.jpg)
 

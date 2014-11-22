@@ -4,10 +4,10 @@
 ### Step 1 - Fix acrylic frame together
 
 **Parts:**
-- Acrylic Left Plate * 1
-- M3-25mm screw * 6
-- M3 nuts 螺帽 * 6
-- M3 washer 螺帽 * 12
+- Acrylic Left Plate x 1
+- M3-25mm screw x 6
+- M3 nuts 螺帽 x 6
+- M3 washer 螺帽 x 12
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_155719.jpg)
 

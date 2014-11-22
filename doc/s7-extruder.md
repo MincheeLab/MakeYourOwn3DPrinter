@@ -3,13 +3,13 @@
 ### Step 1 - prepare extruder motor
 
 Parts:
-- Spring * 1
-- Stepper motor * 1
-- U-shape guide wheel * 1
-- Bronze gear wheel * 1
-- M3-12mm * 1
-- M3-16mm * 2
-- Plastic part * 1
+- Spring x 1
+- Stepper motor x 1
+- U-shape guide wheel x 1
+- Bronze gear wheel x 1
+- M3-12mm x 1
+- M3-16mm x 2
+- Plastic part x 1
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_105809.jpg)
 
@@ -30,10 +30,10 @@ Parts:
 ### Step 2 - install cooling fan
 
 Parts:
-- fan * 1
-- M3-16mm * 2
-- M3 washer * 2 
-- M3 nuts * 2
+- fan x 1
+- M3-16mm x 2
+- M3 washer x 2 
+- M3 nuts x 2
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_113855.jpg)
 
@@ -42,10 +42,10 @@ Parts:
 ### Step 3 - install hot end
 
 Parts:
-- Hot end * 1
-- M3-40mm * 2
-- M3-washer * 2
-- M3 nuts * 2
+- Hot end x 1
+- M3-40mm x 2
+- M3-washer x 2
+- M3 nuts x 2
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_113442.jpg)
 
@@ -56,8 +56,8 @@ Parts:
 ### Step 4 - Mount extruder
 
 Parts:
-- M3-16 * 3
-- M3 nuts * 3
+- M3-16 x 3
+- M3 nuts x 3
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_105020.jpg)
 

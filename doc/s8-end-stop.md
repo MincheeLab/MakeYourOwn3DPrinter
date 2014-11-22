@@ -1,12 +1,12 @@
 # Section 8 - End stop installation
 
 Parts:
-- End stop trigger * 3
-- M3-25mm screw * 2
-- M3 washer * 2
-- M3 nuts * 2
-- M2.5 screw * 6 
-- M2.5 nuts * 6 
+- End stop trigger x 3
+- M3-25mm screw x 2
+- M3 washer x 2
+- M3 nuts x 2
+- M2.5 screw x 6 
+- M2.5 nuts x 6 
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_115348.jpg)
 

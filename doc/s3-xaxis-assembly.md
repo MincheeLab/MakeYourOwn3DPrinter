@@ -4,8 +4,8 @@
 
 Parts:
 - X-axis printed part (as shown in picture)
-- sliding bearing * 2
-- M5 nuts * 2
+- sliding bearing x 2
+- M5 nuts x 2
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_152819.jpg)
 
@@ -16,17 +16,17 @@ Parts:
 ### Step 2 - putting it together
 
 Parts:
-- M8-370mm guide rail * 2 
-- sliding bearing * 3
+- M8-370mm guide rail x 2 
+- sliding bearing x 3
 - 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_154026.jpg)
 
 ### Step 3 - x-end bearing
 
 Parts:
-- 605zz bearing * 1
-- M5-25mm screw * 1
-- M5-25mm bolt * 1
+- 605zz bearing x 1
+- M5-25mm screw x 1
+- M5-25mm bolt x 1
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_153617.jpg)
 
@@ -35,8 +35,8 @@ Parts:
 ### Step 4 - extruder mount 
 
 Parts:
-- Extruder mount * 1
-- Zip tie * 6
+- Extruder mount x 1
+- Zip tie x 6
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_154239.jpg)
 
@@ -59,10 +59,10 @@ Parts:
 ### Step 5 - install the motor
 
 Parts:
-- motor * 1
-- 2GT wheel * 1
-- M3 screw * 4
-- M3 washer * 4
+- motor x 1
+- 2GT wheel x 1
+- M3 screw x 4
+- M3 washer x 4
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMAG2139.jpg)
 
