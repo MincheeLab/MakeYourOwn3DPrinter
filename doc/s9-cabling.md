@@ -23,6 +23,13 @@ Parts:
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/600px-Rampswire14.svg-2.jpg)
 
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_140219.jpg)
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_140417.jpg)
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_141011.jpg)
+
+
 [Previous: Section 8 - End stop](s8-end-stop.md)
 
 [Next: Section 10 - Install firmware](s10-install-firmware.md)
