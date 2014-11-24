@@ -70,6 +70,15 @@ Parts:
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMAG2142.jpg)
 
+### Step 6 - Mount X-Axis end stop
+
+Parts:
+- End stop trigger x 1
+- M2.5 screw x 2
+- M2.5 nuts x 2
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_120823.jpg)
+
 [Previous: Section 2 - Acrylic frame assembly](s2-frame-assembly.md)
 
 [Next: Section 4 - Z-axis assembly](s4-zaxis-assembly.md)
