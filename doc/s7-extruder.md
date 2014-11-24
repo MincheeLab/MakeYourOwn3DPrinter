@@ -27,7 +27,21 @@ Parts:
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_112439.jpg)
 
-### Step 2 - install cooling fan
+### Step 2- Mount extruder
+
+Parts:
+- M3-16 x 3
+- M3 nuts x 3
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_105020.jpg)
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_105120.jpg)
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_105143.jpg)
+
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_105427.jpg)
+
+### Step 3 - install cooling fan
 
 Parts:
 - fan x 1
@@ -39,7 +53,7 @@ Parts:
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_113941.jpg)
 
-### Step 3 - install hot end
+### Step 4 - install hot end
 
 Parts:
 - Hot end x 1
@@ -53,19 +67,7 @@ Parts:
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_113658.jpg)
 
-### Step 4 - Mount extruder
 
-Parts:
-- M3-16 x 3
-- M3 nuts x 3
-
-![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_105020.jpg)
-
-![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_105120.jpg)
-
-![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_105143.jpg)
-
-![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141029_105427.jpg)
 
 [Previous: Section 6 - Heated Bed](s6-heated-bed.md)
 
