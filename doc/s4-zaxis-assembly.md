@@ -18,13 +18,15 @@ Parts:
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_172429.jpg)
 
-### Step 1 - install z-axis rods
+### Step 2 - install z-axis rods
 
 Parts:
 - z-axis plastic top left x 1
 - z-axis plastic top right x 1
 - M8-320mm sliding rods x 2
 - M5-300mm threaded rods x 2
+- M3-16mm x 4
+- M3 washer x 4
 - axis connector x 2
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_174351.jpg)
