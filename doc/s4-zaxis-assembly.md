@@ -37,7 +37,7 @@ slide the X-Axis before closing the top of z-axis
 
 ![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/IMG_20141028_180204.jpg)
 
-[Previous: Section 3 - X-axis assembly](s3-xaxis-assemble.md)
+[Previous: Section 3 - X-axis assembly](s3-xaxis-assembly.md)
 
 [Next: Section 5 - X and Y-Axis Belt](s5-xyaxis-belt.md)
 
