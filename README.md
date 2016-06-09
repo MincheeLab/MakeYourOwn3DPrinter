@@ -1,9 +1,5 @@
 # Make your own 3D printer workshop
 
-This is the guide for Make your own 3D printer workshop
+This is the guide for the "Make your own 3D printer" workshops from [Minchee Lab](http://mincheelab.org).
 
-For more details, please visit ["Make Your Own 3D Printer" minchee.org](http://minchee.org/#/workshops/ws20141122)
-
-[Introduction slides](https://docs.google.com/presentation/d/1884PmvlpdU9kZ2Ljiwkk6zzlHNuZ8CEkv-gw48EVBJc/edit?usp=sharing)
-
-[Step-by-step guide](https://github.com/MincheeLab/MakeYourOwn3DPrinter/blob/master/doc/index.md)
+You will find the documentation for the Prusa i3 (workshop edition 2014) as well as the Micromake Kossel printer (workshop edition 2016).
