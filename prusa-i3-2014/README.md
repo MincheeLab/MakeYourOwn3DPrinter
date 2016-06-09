@@ -6,4 +6,4 @@ For more details, please visit ["Make Your Own 3D Printer" minchee.org](http://m
 
 [Introduction slides](https://docs.google.com/presentation/d/1884PmvlpdU9kZ2Ljiwkk6zzlHNuZ8CEkv-gw48EVBJc/edit?usp=sharing)
 
-[Step-by-step guide](https://github.com/MincheeLab/MakeYourOwn3DPrinter/prusa-i3-2014/blob/master/doc/index.md)
+[Step-by-step guide](https://github.com/MincheeLab/MakeYourOwn3DPrinter/blob/master/prusa-i3-2014/doc/index.md)
