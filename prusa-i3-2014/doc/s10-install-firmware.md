@@ -12,13 +12,13 @@
 
 Double-click
 
-![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/arduino-open-marlinino.jpg)
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/prusa-i3-2014/images/arduino-open-marlinino.jpg)
 
 ### Step 4 - Select board
 
 Select "ATMega2560..."
 
-![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/arduino-select-board.jpg)
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/prusa-i3-2014/images/arduino-select-board.jpg)
 
 ### Step 5 - Select serial port
 
@@ -26,20 +26,20 @@ On Mac: "/tty/usbmodemXXXX"
 
 On Windows: "COMX"
 
-![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/arduino-select-serial-port.jpg)
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/prusa-i3-2014/images/arduino-select-serial-port.jpg)
 
 ### Step 6 - Upload firmware
 
-![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/arduino-upload.jpg)
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/prusa-i3-2014/images/arduino-upload.jpg)
 
 ### Step 7 - Get Printrun for Tweaking and Tuning
 
 ## [Download Printrun from here](http://koti.kapsi.fi/~kliment/printrun/)
 
-![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/Pronterface.jpg)
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/prusa-i3-2014/images/Pronterface.jpg)
 
 ### Step 8 - Get Slic3r to generate GCode
 
 ## [Download Slic3r from here](http://slic3r.org/)
 
-![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/images/Slic3r.jpg)
+![](https://raw.githubusercontent.com/MincheeLab/MakeYourOwn3DPrinter/master/prusa-i3-2014/images/Slic3r.jpg)
