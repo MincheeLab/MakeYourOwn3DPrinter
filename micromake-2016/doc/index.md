@@ -4,6 +4,8 @@ Assembling the Micromake Kossel 3D Printer - 2016 Edition
 
 For the assembly of the 3d printer, we will mainly follow the instructions on the [official assembly manual](https://github.com/MincheeLab/MakeYourOwn3DPrinter/blob/master/micromake-2016/Micromake%203D%20Printer%20DIY%20Product%20Specification%200324.pdf). You can also refer to the [Youtube playlist](https://www.youtube.com/playlist?list=PLZI4ObifO901CMo0Nthryp6-SyjnGld7d) (mandarin only but easy to follow).
 
+[Pre-assembling slides](https://docs.google.com/presentation/d/1hJeoDaChM2a4XPRyy3PKNRGIlh8QTTTGMKVB2dxH_dI/edit?usp=sharing).
+
 Section 1: [Top Assembly]
 
 Section 2: [Bottom Assembly]
